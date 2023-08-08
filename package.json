@@ -1,4 +1,5 @@
 {
+  "homepage": "https://joselacruz.github.io/repro-manipulacon-dom",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
